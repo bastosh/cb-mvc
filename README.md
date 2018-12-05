@@ -7,6 +7,15 @@ Version minimaliste du framework utilisé en NFA017, pour démarrer rapidement d
 - Télécharger ou cloner le repository
 - Une fois dans le dossier, lancer la commande :
 ```
-$ composer install
+$ npm intall && composer install
 ```
-Cela permet de générer l’autoload. Sans cela, le projet ne peut fonctionner.
+Cela permet de générer l’autoload et d’installer les dépendances. Sans cela, le projet ne peut fonctionner.
+
+Enfin, compiler le CSS depuis les sources scss :
+```
+$ gulp sass
+```
+Il est également possible de compiler et de surveiller les changements : 
+```
+$ gulp
+```

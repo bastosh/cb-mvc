@@ -7,7 +7,7 @@ Version minimaliste du framework utilisé en NFA017, pour démarrer rapidement d
 - Télécharger ou cloner le repository
 - Une fois dans le dossier, lancer la commande :
 ```
-$ npm intall && composer install
+$ npm install && composer install
 ```
 Cela permet de générer l’autoload et d’installer les dépendances. Sans cela, le projet ne peut fonctionner.
 

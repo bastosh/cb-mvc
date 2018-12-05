@@ -4,7 +4,10 @@ Version minimaliste du framework utilisé en NFA017, pour démarrer rapidement d
 
 ## Installation
 - Prérequis : avoir [Composer](https://getcomposer.org/doc/00-intro.md) installé globalement sur sa machine
-- Télécharger ou cloner le repository
+- Télécharger ou cloner le repository :
+```
+$ git clone https://github.com/bastosh/cb-mvc.git
+```
 - Une fois dans le dossier, lancer la commande :
 ```
 $ npm install && composer install

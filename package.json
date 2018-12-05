@@ -1,0 +1,26 @@
+{
+  "name": "cb-mvc",
+  "version": "2.0.0",
+  "description": "Micro-framework + Foundation",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "foundation-sites": "^6.5.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "motion-ui": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastosh/cb-mvc.git"
+  },
+  "author": "Sébastien Pereda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastosh/cb-mvc/issues"
+  },
+  "homepage": "https://github.com/bastosh/cb-mvc#readme"
+}
